@@ -37,4 +37,5 @@ Your shell should work like this in interactive mode:
 To start the command interpreter, run the:
 
 AirBnB_clone$ ./console.py
+
 (hbnb)

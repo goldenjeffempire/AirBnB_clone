@@ -34,7 +34,7 @@ Your shell should work like this in interactive mode:
 * quit/EOF - quit the console
 * help - see descriptions of commands
 
-  To start the command interpreter, run the:
-  
-  AirBnB_clone$ ./console.py
-  (hbnb)
+To start the command interpreter, run the:
+
+AirBnB_clone$ ./console.py
+(hbnb)

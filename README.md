@@ -24,7 +24,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 Your shell should work like this in interactive mode:
 
 
-## Commands:
+### How to use:
 
 * creates an object
 * show - show an object
@@ -38,3 +38,18 @@ To start the command interpreter, run the:
 
 AirBnB_clone$ ./console.py
 (hbnb)
+
+### Supported classes:
+
+* BaseModel
+* User
+* State
+* City
+* Amenity
+* Place
+* Review
+
+### AUTHORS
+
+* Goddowell Emordi - goddowellemordi1147@gmail.com
+* Jeffery Emuodafevware - jeffemuodafe124@gmail.com

@@ -12,9 +12,28 @@ This is the first step towards building your very own AirBnB clone web applicati
 
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
 
+* Create a new object (ex: a new User or a new Place)
+* Retrieve an object from a file, a database etc…
+* Do operations on objects (count, compute stats, etc…)
+* Update attributes of an object
+* Destroy and object.
 
 ## Execution
 
 Your shell should work like this in interactive mode:
 
 
+## Commands:
+
+* creates an object
+* show - show an object
+* destroy - destroy an object
+* all - show all objects, of one type or all types
+* update - Updates an instance based on the class name and id
+* quit/EOF - quit the console
+* help - see descriptions of commands
+
+  To start the command interpreter, run the:
+  
+  AirBnB_clone$ ./console.py
+(hbnb) 
